@@ -1,48 +1,93 @@
-# Como-Trabalhar-com-o-Mercado-Financeiro
+# 📈 Como Trabalhar com o Mercado Financeiro segundo Jesse Livermore
 
-Na especulação financeira, a relação entre o manejo dos lucros, o controle dos prejuízos e a capacidade de suportar a inatividade definindo a fronteira entre a ruína e a consistência de longo prazo.
+Este repositório contém o trabalho de pesquisa focado na metodologia de investimentos de **Jesse Livermore**, um dos maiores operadores da história de Wall Street. O objetivo deste projeto é analisar como aplicar seus conceitos clássicos — com foco em **gestão de riscos, paciência estratégica (a espera) e o comportamento diante das grandes quedas** — utilizando Engenharia de Prompts para desmistificar a psicologia por trás da consistência e da ruína no mercado de renda variável.
 
-https://www.youtube.com/watch?v=0pkLHN7Zyuw
+---
 
-https://www.youtube.com/watch?v=y4b_B1LThwE
+## 🔎 Contexto do Trabalho
+Jesse Livermore operava baseado estritamente na ação dos preços (*Price Action*) e na psicologia de mercado. Este trabalho desconstrói a mentalidade do especulador clássico, mapeando suas regras de ouro para o cenário atual de mercado e documentando os prompts estruturados utilizados para simular suas tomadas de decisão sob pressão.
 
-https://www.youtube.com/watch?v=7yjz0xucODA
+---
 
-Quais os erros que levam o trade a ruína?
+## 🗒 O Mecanismo da Ruína vs. O Caminho da Consistência
 
-Os principais erros apontados por ele que levam à destruição do capital incluem:
--Abandonar o próprio sistema e seguir opiniões de terceiros: Alterar o plano original por ouvir conselhos ou analistas externos.
--Ao terceirizar a convicção, o trader perde a capacidade de gerenciar a posição com clareza.
--Estar certo cedo demais (Falhas de Timing): Entrar na operação antes que o mercado confirme a tese.
--Para Livermore, estar certo cedo demais é indistinguível de estar errado, pois as oscilações contrárias consomem o capital antes que o movimento ocorra.
--Inverter a lógica do mercado (Cortar lucros e prolongar perdas): Fechar posições vencedoras precocemente por medo de devolver o ganho, enquanto se mantém em posições perdedoras por muito tempo movido pela esperança e pela recusa em admitir o erro.
--Mover stops e fazer preço médio em posições perdedoras (Averaging Down): Mover o stop-loss para evitar a dor da perda e adicionar mais capital a uma posição que está sangrando, mascarando terror psicológico sob o pretexto de "convicção".
--Impaciência e incapacidade de ficar parado (Overtrading): Forçar operações medíocres por tédio ou pela falsa necessidade de estar sempre ativo.
--Livermore enfatiza que o grande dinheiro não vem da análise constante, mas sim da capacidade de ficar sentado e aguardar a oportunidade ideal.
--Caçar rompimentos (Chasing Breakouts): Lançar-se impulsivamente quando o preço rompe um nível, em vez de aguardar a confirmação do teste (retest), caindo nas armadilhas do mercado.
--Dimensionamento excessivo e arrogância: Aumentar drasticamente o tamanho das posições após uma sequência de vitórias, acreditando que adquiriu um controle sobre o mercado que não existe.
--Fixar metas de lucro diárias (Daily Profit Targets): Exigir um ganho diário fixo obriga o trader a fechar dias de alta oportunidade cedo demais e a forçar operações ruins ou alavancadas em dias sem liquidez.
--Arriscar capital necessário para a sobrevivência: Colocar em risco dinheiro essencial para viver, o que compromete a estabilidade emocional e a tomada de decisão racional.
+Para estruturar a apresentação, a pesquisa dividiu o comportamento do operador de mercado em duas categorias fundamentais extraídas das lições de Livermore:
 
-Quais os acertos que leva o trader a ser consistente?
+### ⚠️ Erros que Levam o Trader à Ruína
+*   **Seguir Opiniões de Terceiros:** Terceirizar a convicção para analistas ou newsletters destrói a habilidade de gerenciar a própria posição sob pressão.
+*   **Estar Certo Cedo Demais (Falha de Timing):** Entrar na operação antes de o mercado confirmar a tendência. Para Livermore, ser precoce é o mesmo que estar errado.
+*   **Inversão Psicológica Destrutiva:** Cortar os lucros rapidamente por medo e prolongar os prejuízos por apego ou esperança.
+*   **Preço Médio para Baixo (*Averaging Down*):** Adicionar capital a uma posição que já está sangrando, mascarando o terror psicológico como "convicção".
+*   **Impaciência (*Overtrading*):** Forçar operações medíocres por tédio ou para se sentir ocupado, sangrando o capital desnecessariamente.
+*   **Caçar Rompimentos impulsivamente:** Lançar-se na primeira violação de preço sem esperar testes, caindo nas armadilhas dos profissionais (*Bull/Bear Traps*).
+*   **Metas de Lucro Diárias Fictícias:** Exigir um ganho diário fixo obriga o operador a sair cedo nos melhores dias e a forçar trades alavancados nos piores dias.
+*   **Arriscar Capital de Sobrevivência:** Operar com o dinheiro de despesas básicas destrói qualquer chance de raciocínio lógico.
 
-Os principais acertos e comportamentos que levam o trader à consistência incluem:
--Capacidade de Aguardar e "Sentar nas Mãos" (Sitting): O grande dinheiro não é feito na frequência de negociação, mas na espera.
--A consistência exige ter paciência para não operar em dias sem oportunidade e a disciplina de manter uma posição vencedora sem encerrá-la precocemente.
--Exigir Confirmação do Mercado Antes de Agir: Entrar no mercado apenas quando a tese é confirmada pela ação do preço em pontos pivô (pivotal points).
--Em vez de caçar rompimentos, o trader consistente aguarda a confirmação pelo padrão de rompimento e teste (break and retest) a favor da tendência principal.
--Confiar Exclusivamente no Próprio Sistema: Manter autonomia total, nunca tomando posições com base na opinião, conselho ou análise de terceiros.
--Gestão Rigorosa do Risco e Proteção do Capital: Definir o stop-loss antes da entrada e limitar o risco por operação a uma fração pequena da conta (como 1% a 2%).
--Além disso, o trader jamais deve arriscar o capital necessário para a sua subsistência
--Cortar Perdas Rapidamente e Deixar os Lucros Correrem: Inverter a tendência psicológica comum, sentindo medo diante de uma posição perdedora (aceitando o stop sem hesitar) e mantendo a esperança enquanto a posição lucrativa continua avançando.
--Adicionar Tamanho Apenas em Posições Lucrativas: Aumentar a posição somente quando ela já estiver provando a tese ao apresentar lucro (never add to a position unless it is already showing a profit), abolindo completamente o preço médio em perdas.
--Auditoria de Operações e Diagnóstico do Próprio Comportamento: Analisar regularmente o histórico de trades perdedores para mapear os dois ou três erros comportamentais recorrentes e estabelecer regras físicas e diretas para eliminá-los.
--Foco no Cumprimento das Regras em Vez de Metas de Lucro: Substituir metas diárias de ganho em dinheiro por metas semanais de conduta (seguir o checklist, respeitar os limites de perda e controlar o número de trades).
--O sucesso é avaliado pela disciplina do processo, considerando um mês positivo aquele em que todas as regras foram cumpridas, independentemente do resultado financeiro pontual.
+### ✅ Acertos que Levam à Consistência
+*   **A Arte do "Sitting" (Sentar nas Mãos):** Entender que o grande dinheiro não é feito na ação de clicar, mas na capacidade de esperar pacientemente pela oportunidade perfeita.
+*   **A Regra do *Break and Retest*:** Aguardar o preço romper um nível importante e confirmá-lo pelo lado oposto (antiga resistência vira suporte) antes de arriscar o capital.
+*   **Operar com a Linha de Menor Resistência:** Identificar a tendência macro no gráfico diário ou de 4 horas e operar estritamente a favor do fluxo dominante.
+*   **Gestão de Risco Blindada:** Aceitar perdas pequenas de forma matemática (1% a 2% do capital por trade) e usar o stop-loss como um contrato inegociável.
+*   **Metas Semanais de Conduta:** Substituir metas financeiras por metas de comportamento (ex: respeitar o limite de perdas e não estourar o número máximo de trades da semana).
 
-Quais são as três regras de recuperação?
+---
 
-As três regras escritas por Livermore para a sua própria recuperação foram:
--Nunca fazer preço médio em uma posição perdedora (Never down a loser): Jamais adicionar capital a uma operação que está sangrando ou no prejuízo para tentar baratear o preço de entrada.
--Nunca assumir uma posição com base na opinião de outra pessoa (Never take a position on another man's opinion): Confiar exclusivamente no seu próprio sistema e não terceirizar a convicção por ouvir conselhos, analistas ou palpites de terceiros.
--Nunca aumentar uma posição a menos que ela já esteja apresentando lucro (Never add to a position unless it is already showing a profit): Adicionar lotes ou alavancar uma operação somente quando o mercado já estiver provando que a sua tese inicial estava correta.
+## 🛠 As 3 Regras de Recuperação de Livermore
+
+Utilizadas pelo próprio especulador para reconstruir suas fortunas após suas falências financeiras, estas diretrizes foram codificadas como leis brutais de sobrevivência no mercado:
+
+1.  **Nunca fazer preço médio em uma posição perdedora** (*Never down a loser*).
+2.  **Nunca assumir uma posição com base na opinião de outra pessoa** (*Never take a position on another man's opinion*).
+3.  **Nunca aumentar uma posição a menos que ela já esteja apresentando lucro** (*Never add to a position unless it is already showing a profit*).
+
+---
+
+## 📊 Estrutura Prática Recomenda (Framework de 90 Dias)
+
+Para dar profundidade técnica ao trabalho, mapeamos o scorecard operacional proposto para os traders modernos testarem sua consistência comportamental ao longo de 90 dias:
+
+| Métrica de Controle | Regra de Execução | Benefício Psicológico |
+| :--- | :--- | :--- |
+| **Max Loss Limite** | Trava de perda diária/semanal estrita. | Protege o trader de si mesmo quando emocionalmente abalado. |
+| **Cap de Trade Count** | Definir um teto máximo de operações por semana. | Cria escassez artificial; torna os trades seletivos e valiosos. |
+| **Pensar em Unidades R** | Abandonar cifras em dinheiro e contar em unidades de risco (R). | Remove o peso emocional do dinheiro no sistema nervoso. |
+| **Scorecard Semanal** | Responder 4 perguntas de conduta antes de olhar o saldo financeiro. | Garante que o foco seja o processo correto, não a sorte momentânea. |
+
+---
+
+## 🤖 Prompts Utilizados e Respostas da Pesquisa
+
+Os cenários abaixo documentam os prompts de engenharia enviados aos modelos de IA e o resumo técnico dos resultados obtidos.
+
+### 📌 Prompt 1: Análise de Cenário de Queda e Timing
+> **Pergunta:** *Aja como Jesse Livermore. Diante de um mercado que apresenta topos descendentes, perda de volume comprador e violação de uma zona crítica, explique por que entrar vendido de maneira antecipada é perigoso. Como o padrão de 'break and retest' serve como confirmação da linha de menor resistência antes de comprometer o capital? Esclareça sob a ótica da paciência operacional.*
+
+** Entrar de forma antecipada é perigoso porque o mercado é repleto de falsos rompimentos criados por profissionais para capturar a liquidez dos impacientes. Ser precoce em uma operação consome o capital antes que a tese se prove verdadeira. O padrão de *break and retest* cura essa ansiedade: ao esperar o preço romper e testar o antigo nível (transformando resistência em suporte ou vice-versa), o mercado confirma matematicamente que a "linha de menor resistência" mudou de direção. A paciência operacional não é inércia, é a blindagem que garante o menor risco possível e o maior retorno potencial.
+
+### 📌 Prompt 2: Avaliação de Risco e a Fraude das Metas Diárias
+> **Pergunta:** *Explique o erro arquitetônico de se estabelecer uma meta diária de lucros (Daily Profit Target) no mercado financeiro. Como essa obrigação artificial força o operador a cortar ganhos nos dias de forte tendência e a aumentar o risco nos dias de mercado lateral? Contraste esse cenário com o conceito de 'sitting' (espera estratégica) e elabore regras de conduta semanais simuladas.*
+
+** A meta diária baseia-se na premissa falsa de que o mercado distribui oportunidades de forma equilibrada no calendário. Como as grandes tendências ocorrem em poucos dias do ano, a meta diária sabota o operador em dois extremos: faz com que ele encerre sua plataforma cedo demais em um dia de lucro histórico (cortando o ganho) e cria uma urgência psicológica destrutiva em dias de mercado lateral, induzindo ao overtrading e a perdas catastróficas. O antídoto é o *sitting* (ficar de mãos atadas por dias ou semanas até a oportunidade surgir) e a substituição por regras de conduta semanais, tais como: limitar o número máximo de posições na semana, respeitar o teto de perda financeira fixado e operar estritamente os setups previamente catalogados.
+
+---
+
+## 🔮 Prompts de Melhoria para o Futuro (Próximos Passos)
+
+Para dar continuidade e evolução a esta pesquisa em trabalhos futuros, foram estruturados os seguintes prompts avançados para exploração com Inteligência Artificial:
+
+*   **Prompt de Automação e Backtesting:**
+    > *"Aja como um cientista de dados e programador Python especializado em finanças. Com base nas regras de Ponto Pivô e Break and Retest de Jesse Livermore, crie o algoritmo de uma estratégia utilizando a biblioteca Pandas. O código deve conter as regras estritas de stop-loss em Unidades R e gatilho de entrada após a rejeição da zona de suporte/resistência."*
+*   **Prompt de Análise de Sentimento e Psicologia Algorítmica:**
+    > *"Faça um paralelo entre o conceito de 'Psicologia do Investidor de Wall Street' descrito por Livermore na década de 1920 e o comportamento atual dos algoritmos de Alta Frequência (HFT). Como o medo e a ganância humanos foram codificados em silício na automação moderna do mercado e de que forma as zonas de suporte/resistência baseadas em memória emocional ainda se mantêm válidas?"*
+*   **Prompt de Criação de Simulador de Crise (Stress Test):**
+    > *"Aja como um simulador de gerenciamento de risco. Crie um cenário interativo de estresse no mercado (como o Crash de 1929 ou a crise de 2008) onde eu, como operador, enfrente uma sequência de 5 perdas seguidas. Forneça perguntas de múltipla escolha baseadas nas diretrizes de recuperação de Livermore para testar se eu quebraria minhas próprias travas psicológicas de proteção de capital ou se manteria a disciplina operacional."*
+
+---
+
+## 📖 Fontes e Referências Bibliográficas
+
+*   **LIVERMORE, Jesse L.** *How to Trade in Stocks*. New York: Duell, Sloan & Pearce, 1940.
+*   **LEFÈVRE, Edwin.** *Reminiscences of a Stock Operator*. New York: George H. Doran Company, 1923.
+*   **JESSE LIVERMORE TRADING CODE.** *Thinking Like Jesse Livermore: Mastering the Market with Discipline, Patience, and Risk*. Conteúdo Educacional e Análise Comportamental, 2026.
+
+*   **Tiago Marques Girotto** - [GitHub](https://github.com)
